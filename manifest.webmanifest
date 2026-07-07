@@ -1,0 +1,9 @@
+{
+  "name": "Sanchia Recson Lakkarvi Portfolio",
+  "short_name": "Sanchia Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8fc",
+  "theme_color": "#233a8b",
+  "icons": []
+}
